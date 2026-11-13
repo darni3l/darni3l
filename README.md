@@ -2,8 +2,6 @@
 
 Biotechnology engineering student (ESBS, University of Strasbourg; MSc Biology, Freiburg) moving into **computational biology**: modelling, molecular docking/dynamics, structural bioinformatics and AI/ML in biology.
 
-**Looking for a 6-month end-of-studies internship starting February/March 2027** (degree expected August 2027).
-
 📫 [daniel.ogundero@etu.unistra.fr] · [LinkedIn](www.linkedin.com/in/daniel-ogundero)
 
 ---
